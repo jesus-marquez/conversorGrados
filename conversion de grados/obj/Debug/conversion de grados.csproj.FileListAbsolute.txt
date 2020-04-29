@@ -1,0 +1,10 @@
+C:\Users\metamorfosis\Documents\programacion avanzada\conversion de grados\conversion de grados\bin\Debug\conversion de grados.exe.config
+C:\Users\metamorfosis\Documents\programacion avanzada\conversion de grados\conversion de grados\bin\Debug\conversion de grados.exe
+C:\Users\metamorfosis\Documents\programacion avanzada\conversion de grados\conversion de grados\bin\Debug\conversion de grados.pdb
+C:\Users\metamorfosis\Documents\programacion avanzada\conversion de grados\conversion de grados\obj\Debug\conversion de grados.csprojAssemblyReference.cache
+C:\Users\metamorfosis\Documents\programacion avanzada\conversion de grados\conversion de grados\obj\Debug\conversion_de_grados.Form1.resources
+C:\Users\metamorfosis\Documents\programacion avanzada\conversion de grados\conversion de grados\obj\Debug\conversion_de_grados.Properties.Resources.resources
+C:\Users\metamorfosis\Documents\programacion avanzada\conversion de grados\conversion de grados\obj\Debug\conversion de grados.csproj.GenerateResource.cache
+C:\Users\metamorfosis\Documents\programacion avanzada\conversion de grados\conversion de grados\obj\Debug\conversion de grados.csproj.CoreCompileInputs.cache
+C:\Users\metamorfosis\Documents\programacion avanzada\conversion de grados\conversion de grados\obj\Debug\conversion de grados.exe
+C:\Users\metamorfosis\Documents\programacion avanzada\conversion de grados\conversion de grados\obj\Debug\conversion de grados.pdb
